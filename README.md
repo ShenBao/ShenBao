@@ -10,11 +10,11 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer .
 
 <img 
     src="./img/code.gif"
-    alt="GIF"
+    alt="code.gif"
     align="right"
-    width="400"
+    width="360"
     height="100%"
-    style="max-width: 365px;padding-left: 12px;padding-bottom: 12px;"
+    style="max-width: 360px;padding-left: 12px;padding-bottom: 12px;"
 />
 
 <br />
@@ -29,4 +29,4 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer .
 
 <br />
 
-Click <a href="https://shenbao.github.io/about" target="_blank" rel="noopener noreferrer">here</a> to view more ...
+Click <a href="https://shenbao.github.io/about" target="_blank">here</a> to view more ...
