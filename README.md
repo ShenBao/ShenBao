@@ -2,11 +2,11 @@
 
 <br />
 
-I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer .
+I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，focus on React and Build tools.
+
+**( I’m currently looking for a job, you can contact me if you have a suitable one, thanks ~ )**
 
 <sub>{折腾 ⇌ 迷茫 ⇌ 思考]ing，在路上...</sub>
-
-<sub>无技术，无 PR，无开源，兢兢业业的 stevedore ! 😎😎😎</sub>
 
 <img 
     src="./img/code.gif"
@@ -22,8 +22,8 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer .
 - 🔭 Front-end developer
 - 🍉 React Hooks + TypeScript + Webpack + Micro Frontends + ...
 - &nbsp;📍&nbsp; Beijing
-- 💬 shenbao_one
-- ✉️ shenbaoone@gmail.com
+- 💬 WeChat: shenbao_one
+- ✉️ Gmail: shenbaoone@gmail.com
 - 😄 GitHub: [ShenBao](https://github.com/ShenBao)
 - ⚡ Blog: [ShenBao](https://shenbao.github.io)
 
