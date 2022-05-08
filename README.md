@@ -8,7 +8,11 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，
 
 <sub>{折腾 ⇌ 迷茫 ⇌ 思考]ing，在路上...</sub>
 
-<img 
+<!-- <sub>无技术，无 PR，无开源，兢兢业业的 stevedore ! </sub>😎😎😎 -->
+
+<br />
+
+<!-- <img 
     src="./img/code.gif"
     alt="code.gif"
     align="right"
@@ -17,10 +21,12 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，
     style="max-width: 360px;padding-left: 12px;padding-bottom: 12px;"
 />
 
-<br />
+<br /> -->
 
 - 🔭 Front-end developer
 - 🍉 React Hooks + TypeScript + Webpack + Micro Frontends + ...
+- 🍒 antd、Fusion、Redux、MobX、Dva、ahooks、Formily、 ...
+- 🌱 Learning Serverless、Docker ...
 - &nbsp;📍&nbsp; Beijing
 - 💬 WeChat: shenbao_one
 - ✉️ Gmail: shenbaoone@gmail.com
@@ -29,4 +35,4 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，
 
 <br />
 
-Click <a href="https://shenbao.github.io/about" target="_blank">here</a> to view more ...
+Click <a href="https://shenbao.github.io/about" target="_blank">here</a> to view [more](./MORE.md) ...
