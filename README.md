@@ -1,7 +1,5 @@
 ### Hi there <img src="./img/wave.gif" width="24px">
 
-<br />
-
 I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，focus on React and Build tools.
 
 **( I’m currently looking for a job, you can contact me if you have a suitable one, thanks ~ )**
@@ -10,9 +8,7 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，
 
 <!-- <sub>无技术，无 PR，无开源，兢兢业业的 stevedore ! </sub>😎😎😎 -->
 
-<br />
-
-<!-- <img 
+<!-- <img
     src="./img/code.gif"
     alt="code.gif"
     align="right"
@@ -32,7 +28,5 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，
 - ✉️ Gmail: shenbaoone@gmail.com
 - 😄 GitHub: [ShenBao](https://github.com/ShenBao)
 - ⚡ Blog: [ShenBao](https://shenbao.github.io)
-
-<br />
 
 Click <a href="https://shenbao.github.io/about" target="_blank">here</a> to view [more](./MORE.md) ...
