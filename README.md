@@ -2,7 +2,7 @@
 
 I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，focus on React and Build tools.
 
-**( I’m currently looking for a job, you can contact me if you have a suitable one, thanks ~ )**
+<!-- **( I’m currently looking for a job, you can contact me if you have a suitable one, thanks ~ )** -->
 
 <sub>{折腾 ⇌ 迷茫 ⇌ 思考]ing，在路上...</sub>
 
@@ -21,7 +21,7 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，
 
 - 🔭 Front-end developer
 - 🍉 React Hooks + TypeScript + Webpack + Micro Frontends + ...
-- 🍒 antd、Fusion、Redux、MobX、Dva、ahooks、Formily、 ...
+- 🍒 Antd、Fusion、Redux、Mobx、Dva、ahooks、Formily、 ...
 - 🌱 Learning Serverless、Docker ...
 - &nbsp;📍&nbsp; Beijing
 - 💬 WeChat: shenbao_one
