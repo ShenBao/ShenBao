@@ -1,4 +1,4 @@
-### Hi there <img src="./img/wave.gif" width="24px">
+### Hi there 👋
 
 I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，focus on React and Build tools.
 
@@ -23,6 +23,11 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，
 - 🍉 React Hooks + TypeScript + Webpack + Micro Frontends + ...
 - 🍒 Antd、Fusion、Redux、Mobx、Dva、ahooks、Formily、 ...
 - 🌱 Learning Serverless、Docker ...
+- 🛠  Also the creator of 
+    [fastx](https://github.com/ShenBao/fastx)、
+    [rsa-aes-utils](https://github.com/ShenBao/rsa-aes-utils)、
+    [react-slider-verify](https://github.com/ShenBao/react-slider-verify)
+    ...
 - &nbsp;📍&nbsp; Beijing
 - 💬 WeChat: shenbao_one
 - ✉️ Gmail: shenbaoone@gmail.com
