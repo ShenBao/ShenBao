@@ -8,7 +8,7 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，
 
 <!-- <sub>无技术，无 PR，无开源，兢兢业业的 stevedore ! </sub>😎😎😎 -->
 
-<!-- <img
+<img
     src="./img/code.gif"
     alt="code.gif"
     align="right"
@@ -16,8 +16,6 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，
     height="100%"
     style="max-width: 360px;padding-left: 12px;padding-bottom: 12px;"
 />
-
-<br /> -->
 
 - 🔭 Front-end developer
 - 🍉 React Hooks + TypeScript + Webpack + Micro Frontends + ...
