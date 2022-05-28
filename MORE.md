@@ -17,6 +17,7 @@
   - fe-react-app
   - fe-react-redux-app
   - fe-react-mobx-app
+  - fe-react-context-app
   - fe-react-rtk-app
   - fe-main-app
   - fe-micro-app
@@ -32,8 +33,10 @@
 - @fastx/components
 - @fastx/hooks
 - @fastx/form-submit
+- @fastx/cookie
 - @fastx/jsonp
 - @fastx/utils
+- @fastx/helper
 - @fastx/materials
 
 ## Daily Notes
@@ -53,7 +56,7 @@
   [design-patterns-notes](https://github.com/ShenBao/js-design-patterns-notes)、
   [data-visualization-notes](https://github.com/ShenBao/data-visualization-notes)
 
-- node：
+- nodejs：
   [node-notes](https://github.com/ShenBao/node-notes)
 
 - fe pack：
