@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，focus on React and Build tools.
+I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer ，focus on React、Data Visualization and Build tools.
 
 <!-- **( I’m currently looking for a job, you can contact me if you have a suitable one, thanks ~ )** -->
 
@@ -19,8 +19,9 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer，
 
 - 🔭 Front-end developer
 - 🍉 React Hooks + TypeScript + Webpack + Micro Frontends + ...
-- 🍒 Antd、Fusion、Redux、Mobx、Dva、ahooks、Formily、 ...
-- 🌱 Learning Serverless、Docker ...
+- 🍒 Redux、Mobx、Redux Toolkit、Antd、Fusion、ahooks、Formily、...
+- 🎄 Data Visualization use the ECharts、AntV、 ...
+- 🌱 Learning Serverless、Docker、...
 - 🛠  Creator of 
     [fastx](https://github.com/ShenBao/fastx)、
     [rsa-aes-utils](https://github.com/ShenBao/rsa-aes-utils)、
