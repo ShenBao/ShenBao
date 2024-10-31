@@ -2,14 +2,14 @@
 
 I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer ，focus on React、Data Visualization and Build tools.
 
-<!-- **( I’m currently looking for a job, you can contact me if you have a suitable one, thanks ~ )** -->
+**( 🔭 I’m currently looking for a job, you can contact me if you have a suitable one, thanks ~ )**
 
 <sub>{折腾 ⇌ 迷茫 ⇌ 思考 ⇌ 总结 ⇌ 反思]ing，在路上...</sub>
 
-<!-- <sub>无技术，无 PR，无开源，兢兢业业的 stevedore ! </sub>😎😎😎 -->
+<!-- <sub>无技术，无 PR，无开源，兢兢业业的 stevedore ! </sub> -->
 
 <img
-    src="https://cdn.nlark.com/yuque/0/2023/gif/385443/1699111445282-f9bbab09-0c7e-4d2e-a995-f86d5c00cf51.gif"
+    src="https://github.com/ShenBao/ShenBao/blob/master/img/code.gif?raw=true"
     alt="code.gif"
     align="right"
     width="360"
@@ -21,7 +21,7 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer �
 - 🍉 React Hooks + TypeScript + Webpack + Micro Frontends + ...
 - 🍒 Redux、Mobx、Redux Toolkit、Antd、ahooks、Formily、...
 - 🎄 Data Visualization use the ECharts、AntV、 ...
-- 🌱 Learning Serverless、Docker、...
+- 🌱 Learning Web3D、AI、...
 - 🛠  Creator of 
     [fastx](https://github.com/ShenBao/fastx)、
     [rsa-aes-utils](https://github.com/ShenBao/rsa-aes-utils)、
