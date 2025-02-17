@@ -19,10 +19,12 @@
   - fe-react-mobx-app
   - fe-react-context-app
   - fe-react-rtk-app
+  - fe-react-zustand-app
   - fe-main-app
   - fe-micro-app
   - fe-react-router-v5-app
   - fe-react-router-v6-app
+  - fe-react-router-v7-app
 - [haiyan-materials](https://github.com/ShenBao/haiyan-materials)
 
 ## FE Utils
