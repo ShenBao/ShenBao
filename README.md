@@ -2,7 +2,7 @@
 
 I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer ，focus on React、Data Visualization and Build tools.
 
-**( ☀️🔭 I’m currently looking for a job, you can contact me if you have a suitable one, thanks ~ 🎉 )**
+**( ☀️🔭 I’m currently looking for new a job, you can contact me if you have a suitable one, thanks ~ 🎉 )**
 
 <sub>{折腾 ⇌ 迷茫 ⇌ 思考 ⇌ 行动 ⇌ 总结 ⇌ 反思 ⇌ 再迭代]ing，在路上...</sub>
 
@@ -20,15 +20,15 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer �
 - 🔭 Front-end developer
 - 🍉 React Hooks + TypeScript + Webpack + Vite + Micro Frontends + ...
 - 🍒 Redux、Mobx、Redux Toolkit、Zustand、Antd、ahooks、Formily、...
-- 🎄 Data Visualization use the ECharts、AntV、D3.js ...
+- 🎄 Data Visualization use the ECharts、AntV、D3.js、Three.js ...
 - 🌱 Learning Web3D、BI、AI、...
 - 🛠  Creator of 
-    [fastx](https://github.com/ShenBao/fastx)、
+    [fastx](https://github.com/ShenBao?tab=repositories&q=fastx)、
     [rsa-aes-utils](https://github.com/ShenBao/rsa-aes-utils)、
     [react-slider-verify](https://github.com/ShenBao/react-slider-verify)
     ...
 - &nbsp;📍&nbsp; Beijing
-- 💬 WeChat: shenbao_one (注：请备注来意)
+- 💬 WeChat: shenbao_one (请备注来意)
 - ✉️  Email: shenbaoone@126.com
 - 😄 GitHub: [ShenBao](https://github.com/ShenBao)
 - ⚡ Blog: [ShenBao](https://shenbao.github.io)

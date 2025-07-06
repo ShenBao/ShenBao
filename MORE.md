@@ -1,5 +1,12 @@
 # More
 
+## playground
+
+- [fastx-react-playground](https://github.com/ShenBao/fastx-react-playground)
+- [fastx-charts-playground](https://github.com/ShenBao/fastx-charts-playground)
+- [fastx-md-playground](https://github.com/ShenBao/fastx-md-playground)
+
+
 ## Build tools
 
 - [fastx](https://github.com/ShenBao/fastx)：前端工程构建工具（支持 webpack 和 vite 两种模式）
@@ -84,6 +91,7 @@
 - [computer-science-basic-knowledge-notes](https://github.com/ShenBao/computer-science-basic-knowledge-notes)
 - [linux-notes](https://github.com/ShenBao/linux-notes)
 - [java-notes](https://github.com/ShenBao/java-notes)
+- [rust-notes](https://github.com/ShenBao/rust-notes)
 
 ## More links
 
