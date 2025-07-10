@@ -12,8 +12,7 @@ I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer �
     src="https://github.com/ShenBao/ShenBao/blob/master/img/code.gif?raw=true"
     alt="code.gif"
     align="right"
-    width="320"
-    height="100%"
+    width="300px"
     style="max-width: 320px;padding-left: 12px;padding-bottom: 12px;"
 />
 
