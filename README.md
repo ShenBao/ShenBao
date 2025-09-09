@@ -2,7 +2,7 @@
 
 I'm ShenBao([尘墨](https://shenbao.github.io/about/))，Front-end developer ，focus on React、Data Visualization and Build tools.
 
-**( ☀️🔭 I’m currently looking for new a job, you can contact me if you have a suitable one, thanks ~ 🎉 )**
+<!-- **( ☀️🔭 I’m currently looking for new a job, you can contact me if you have a suitable one, thanks ~ 🎉 )** -->
 
 <sub>{折腾 ⇌ 迷茫 ⇌ 思考 ⇌ 行动 ⇌ 总结 ⇌ 反思 ⇌ 再迭代]ing，在路上...</sub>
 
